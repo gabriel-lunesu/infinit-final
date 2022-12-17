@@ -76,7 +76,7 @@ export default function Pricing() {
           Premium Support: 9 months
         </div>
         <div class="text-center border-0 border-grey-light border-b border-solid py-4">
-          No setup, or hidden fees
+          Automatic Monthly Payout's
         </div>
       </div>
       <div class="w-full text-center px-8 pt-8 text-xl mt-auto">
