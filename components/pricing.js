@@ -32,7 +32,7 @@ export default function Pricing() {
       <div class="text-center mt-8 mb-8 mt-auto">
         <a href="https://tally.so/r/mZ9vpv"
                 target="_blank"
-                rel="noopener" class="inline-block bg-green text-white px-6 py-4 rounded hover:bg-green-darker hover:text-white hover:no-underline">Sign Up</a>
+                rel="noopener" class="inline-block bg-green font-extrabold	 text-white px-6 py-4 rounded hover:bg-green-darker hover:text-white hover:no-underline">Sign Up</a>
       </div>
     </div>
     <div class="flex-1 lg:flex-initial lg:w-1/4 rounded-t-lg bg-indigo-700 mt-4 sm:-mt-4 shadow-lg z-30 flex flex-col">
@@ -60,7 +60,7 @@ export default function Pricing() {
       <div class="w-full text-center mb-8 mt-auto">
         <a href="https://tally.so/r/mZ9vpv"
                 target="_blank"
-                rel="noopener" class="inline-block bg-green text-white px-6 py-4 rounded hover:bg-green-darker hover:text-white hover:no-underline">Sign Up</a>
+                rel="noopener" class="inline-block font-extrabold bg-green text-white px-6 py-4 rounded hover:bg-green-darker hover:text-white hover:no-underline">Sign Up</a>
       </div>
     </div>
     <div class="flex-1 lg:flex-initial lg:w-1/4 rounded-t-lg rounded-tl-none bg-indigo-700 mt-4 flex flex-col">
@@ -88,7 +88,7 @@ export default function Pricing() {
       <div class="text-center pt-8 mb-8 mt-auto">
         <a href="https://tally.so/r/mZ9vpv"
                 target="_blank"
-                rel="noopener" class="inline-block bg-green text-white px-6 py-4 rounded hover:bg-green-darker hover:text-white hover:no-underline">Sign Up</a>
+                rel="noopener" class="inline-block font-extrabold bg-green text-white px-6 py-4 rounded hover:bg-green-darker hover:text-white hover:no-underline">Sign Up</a>
       </div>
     </div>
   </div>

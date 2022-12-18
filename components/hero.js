@@ -53,8 +53,8 @@ export default function Hero() {
           <div className="">
             <Image
               src={heroImg}
-              width="616"
-              height="617"
+              width="516"
+              height="517"
               alt="Hero Illustration"
               layout="intrinsic"
               loading="eager"
